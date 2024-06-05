@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="074140e1-0ec2-4d7c-a8a6-ad488b1f6d54" name="Changes" comment="">
+    <list default="true" id="074140e1-0ec2-4d7c-a8a6-ad488b1f6d54" name="Changes" comment="tersine">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "nicatcod"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/nicatcod/NicatAlverdiyevfor.git",
+    "accountId": "c3deb847-c062-44a1-985d-541af47784de"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/mi.java" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -41,8 +54,10 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Application.MultiplicationTable.executor": "Run",
+    "Application.RightAlignedStarPattern.executor": "Run",
     "Application.Table.executor": "Run",
     "Application.Task1.executor": "Run",
+    "Application.Task2.executor": "Run",
     "Application.mi.executor": "Run",
     "Application.missal2.executor": "Run",
     "Application.missal3.executor": "Run",
@@ -59,16 +74,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task1">
+  <component name="RunManager" selected="Application.Task2">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="FORmissalar" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiplicationTable" />
       <module name="FORmissalar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,8 +89,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="missal2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="missal2" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2" />
+      <module name="FORmissalar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2" />
       <module name="FORmissalar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
         <item itemvalue="Application.missal3" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.missal2" />
-        <item itemvalue="Application.MultiplicationTable" />
       </list>
     </recent_temporary>
   </component>
@@ -130,11 +145,24 @@
       <updated>1717504449707</updated>
       <workItem from="1717504450875" duration="117000" />
       <workItem from="1717504585947" duration="1280000" />
-      <workItem from="1717506843358" duration="8997000" />
+      <workItem from="1717506843358" duration="11198000" />
     </task>
+    <task id="LOCAL-00001" summary="tersine">
+      <option name="closed" value="true" />
+      <created>1717592449996</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717592449996</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tersine" />
+    <option name="LAST_COMMIT_MESSAGE" value="tersine" />
   </component>
 </project>
