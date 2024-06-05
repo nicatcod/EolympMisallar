@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="074140e1-0ec2-4d7c-a8a6-ad488b1f6d54" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/missal2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/missal2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/missal3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/missal3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,12 +42,13 @@
     "Application.Main.executor": "Run",
     "Application.MultiplicationTable.executor": "Run",
     "Application.Table.executor": "Run",
+    "Application.Task1.executor": "Run",
     "Application.mi.executor": "Run",
     "Application.missal2.executor": "Run",
     "Application.missal3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -60,7 +59,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Task1">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="FORmissalar" />
@@ -75,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mi" />
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task1" />
       <module name="FORmissalar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.missal3" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.missal2" />
         <item itemvalue="Application.MultiplicationTable" />
-        <item itemvalue="Application.mi" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +130,7 @@
       <updated>1717504449707</updated>
       <workItem from="1717504450875" duration="117000" />
       <workItem from="1717504585947" duration="1280000" />
-      <workItem from="1717506843358" duration="5359000" />
+      <workItem from="1717506843358" duration="8997000" />
     </task>
     <servers />
   </component>
