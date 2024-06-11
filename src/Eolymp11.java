@@ -18,8 +18,3 @@ public class missal2 {
         }
     }
 }
-
-
-
-
-
