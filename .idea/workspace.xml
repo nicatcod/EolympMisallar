@@ -5,8 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="074140e1-0ec2-4d7c-a8a6-ad488b1f6d54" name="Changes" comment="guzgu">
-      <change afterPath="$PROJECT_DIR$/src/eolympmissalari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Eolymp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Eolymp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Eolymp3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Eolymp4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Eolymp5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Eolymp6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Eolymp7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Eolymp8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Eolymp9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/whilemisall.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eolymp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eolymp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,16 +63,31 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AppleDistribution.executor": "Run",
+    "Application.Arraymisall.executor": "Run",
+    "Application.Eolipp.executor": "Run",
+    "Application.Eolymp1.executor": "Run",
+    "Application.Eolymp2.executor": "Run",
+    "Application.Eolymp3.executor": "Debug",
+    "Application.Eolymp4.executor": "Run",
+    "Application.Eolymp5.executor": "Run",
+    "Application.Eolymp6.executor": "Run",
+    "Application.Eolymp7.executor": "Run",
+    "Application.Eolymp8.executor": "Run",
+    "Application.Eolymp9.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MultiplicationTable.executor": "Run",
     "Application.RightAlignedStarPattern.executor": "Run",
     "Application.Table.executor": "Run",
     "Application.Task1.executor": "Run",
     "Application.Task2.executor": "Run",
+    "Application.eolymp.executor": "Run",
     "Application.eolympmissalari.executor": "Run",
+    "Application.main.executor": "Run",
     "Application.mi.executor": "Run",
     "Application.missal2.executor": "Run",
     "Application.missal3.executor": "Run",
+    "Application.whilemisall.executor": "Run",
+    "Application.yeniiiiii.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -75,16 +101,37 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.eolymp">
-    <configuration name="AppleDistribution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AppleDistribution" />
+  <component name="RunManager" selected="Application.Eolymp9">
+    <configuration name="Eolymp6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Eolymp6" />
       <module name="FORmissalar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task1" />
+    <configuration name="Eolymp7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Eolymp7" />
+      <module name="FORmissalar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eolymp8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Eolymp8" />
+      <module name="FORmissalar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eolymp9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Eolymp9" />
+      <module name="FORmissalar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="FORmissalar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,27 +139,6 @@
     </configuration>
     <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task2" />
-      <module name="FORmissalar" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task2" />
-      <module name="FORmissalar" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="eolymp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="eolymp" />
-      <module name="FORmissalar" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="eolympmissalari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="eolympmissalari" />
       <module name="FORmissalar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -127,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.eolymp" />
-        <item itemvalue="Application.AppleDistribution" />
-        <item itemvalue="Application.eolympmissalari" />
-        <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Eolymp9" />
+        <item itemvalue="Application.Eolymp8" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Eolymp7" />
+        <item itemvalue="Application.Eolymp6" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +179,7 @@
       <updated>1717504449707</updated>
       <workItem from="1717504450875" duration="117000" />
       <workItem from="1717504585947" duration="1280000" />
-      <workItem from="1717506843358" duration="13788000" />
+      <workItem from="1717506843358" duration="43370000" />
     </task>
     <task id="LOCAL-00001" summary="tersine">
       <option name="closed" value="true" />
