@@ -9,15 +9,15 @@ public class Eolymp10 {
         int b = scanner.nextInt();
         int c = scanner.nextInt();
         if (a + b + c > 100) {
-            System.out.println("deyer duz deyil");
+            System.out.println("Dəyər düz deyil");
             return;
         }
         if (a == b && a == c) {
-            System.out.println("beraber terefli di");
+            System.out.println("Bərabər tərəflidi");
         } else if (a == c || a == b || b == c) {
-            System.out.println("beraber yanli di");
+            System.out.println("Bərabər Yanlıdı");
         } else
-            System.out.println("ferqli");
+            System.out.println("Fərqlidi");
     }
 }
 

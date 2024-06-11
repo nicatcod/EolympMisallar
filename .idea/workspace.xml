@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="074140e1-0ec2-4d7c-a8a6-ad488b1f6d54" name="Changes" comment="guzgu">
+    <list default="true" id="074140e1-0ec2-4d7c-a8a6-ad488b1f6d54" name="Changes" comment="EolympMisallar">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Eolymp10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Eolymp10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Eolymp11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Eolymp11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Eolymp12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Eolymp12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Eolymp13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Eolymp13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Eolymp14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Eolymp14.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Eolymp2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Eolymp2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/missal2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/missal2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +61,10 @@
     "Application.Eolipp.executor": "Run",
     "Application.Eolymp1.executor": "Run",
     "Application.Eolymp10.executor": "Run",
+    "Application.Eolymp11.executor": "Run",
+    "Application.Eolymp12.executor": "Run",
+    "Application.Eolymp13.executor": "Run",
+    "Application.Eolymp14.executor": "Run",
     "Application.Eolymp2.executor": "Run",
     "Application.Eolymp3.executor": "Debug",
     "Application.Eolymp4.executor": "Run",
@@ -93,7 +100,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Eolymp10">
+  <component name="RunManager" selected="Application.Eolymp14">
     <configuration name="Eolymp10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Eolymp10" />
       <module name="FORmissalar" />
@@ -101,22 +108,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Eolymp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Eolymp2" />
+    <configuration name="Eolymp11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Eolymp11" />
       <module name="FORmissalar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Eolymp8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Eolymp8" />
+    <configuration name="Eolymp12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Eolymp12" />
       <module name="FORmissalar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Eolymp9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Eolymp9" />
+    <configuration name="Eolymp13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Eolymp13" />
+      <module name="FORmissalar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eolymp14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Eolymp14" />
       <module name="FORmissalar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -124,13 +138,6 @@
     </configuration>
     <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task2" />
-      <module name="FORmissalar" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="missal2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="missal2" />
       <module name="FORmissalar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -145,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Eolymp14" />
+        <item itemvalue="Application.Eolymp13" />
+        <item itemvalue="Application.Eolymp12" />
+        <item itemvalue="Application.Eolymp11" />
         <item itemvalue="Application.Eolymp10" />
-        <item itemvalue="Application.Eolymp2" />
-        <item itemvalue="Application.missal2" />
-        <item itemvalue="Application.Eolymp9" />
-        <item itemvalue="Application.Eolymp8" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +178,7 @@
       <updated>1717504449707</updated>
       <workItem from="1717504450875" duration="117000" />
       <workItem from="1717504585947" duration="1280000" />
-      <workItem from="1717506843358" duration="49022000" />
+      <workItem from="1717506843358" duration="54811000" />
     </task>
     <task id="LOCAL-00001" summary="tersine">
       <option name="closed" value="true" />
@@ -189,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717595474015</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="EolympMisallar">
+      <option name="closed" value="true" />
+      <created>1718137264525</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718137264525</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +213,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tersine" />
     <MESSAGE value="guzgu" />
-    <option name="LAST_COMMIT_MESSAGE" value="guzgu" />
+    <MESSAGE value="EolympMisallar" />
+    <option name="LAST_COMMIT_MESSAGE" value="EolympMisallar" />
   </component>
 </project>
