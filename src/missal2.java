@@ -1,17 +1,25 @@
+import java.util.Scanner;
+
 public class missal2 {
     public static void main(String[] args) {
-        //İlk 10 natural ədədin cəmini hesablamaq üçün proqram yazın.
+        //Ayın nömrəsini göstərən N tam ədədi verilib (1 ≤ N ≤ 12).
+        //N ədədinə uyğun olaraq ayın hansı rübdə yerləşdiyini tapmaq lazımdır.
+        Scanner input = new Scanner(System.in);
+        int n = input.nextInt();
+        if (n <= 3) {
+            System.out.println("1ci rub");
+        }else if (n > 3 && n <= 6) {
+            System.out.println("2ci rub");
+        } else if (n > 6 && n <= 9) {
+            System.out.println("3ci rub");
 
-            int n = 0;
-            for (int i = 1; i <= 10; i++)
-            {
-                n = n + i;
-            }
-
-            System.out.print(n);
-
+        } else if (n > 9 && n <= 12) {
+            System.out.println("4ci rub");
         }
     }
+}
+
+
 
 
 
